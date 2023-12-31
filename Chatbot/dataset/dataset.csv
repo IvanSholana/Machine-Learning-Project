@@ -1,8 +1,19 @@
 tag,patterns,responses
-greeting,"Hi, Hey, How are you, Is anyone there?, Hello, Good day","Hey :-), Hello, thanks for visiting, Hi there, what can I do for you?, Hi there, how can I help?"
-goodbye,"Bye, See you later, Goodbye","See you later, thanks for visiting, Have a nice day, Bye! Come back again soon."
-thanks,"Thanks, Thank you, That's helpful, Thank's a lot!","Happy to help!, Any time!, My pleasure"
-items,"Which items do you have?, What kinds of items are there?, What do you sell?","We sell coffee and tea, We have coffee and tea"
-payments,"Do you take credit cards?, Do you accept Mastercard?, Can I pay with Paypal?, Are you cash only?","We accept VISA, Mastercard and Paypal, We accept most major credit cards, and Paypal"
-delivery,"How long does delivery take?, How long does shipping take?, When do I get my delivery?","Delivery takes 2-4 days, Shipping takes 2-4 days"
-funny,"Tell me a joke!, Tell me something funny!, Do you know a joke?","Why did the hipster burn his mouth? He drank the coffee before it was cool., What did the buffalo say when his son left for college? Bison."
+anxiety,I'm feeling really anxious right now,I'm here for you. It's okay to feel this way.
+stress,Dealing with stress is overwhelming,Take a deep breath. You're not alone in this.
+coping,I don't know how to cope with my emotions,It's important to reach out for help. You can talk to a professional or a friend.
+sadness,Sometimes I feel really down and don't know why,"Remember, your feelings are valid. Don't be too hard on yourself."
+struggle,Managing my mental health is a constant struggle,Taking care of your mental health is a journey. Seek support when you need it.
+sleep_issues,I'm having trouble sleeping due to anxiety,Consider establishing a bedtime routine to improve your sleep.
+pressure,The pressure is getting to me and affecting my mental well-being,You're not alone. Many people struggle with the same feelings.
+isolation,I feel isolated and lonely,Reach out to friends or family. Connection can make a difference.
+intrusive_thoughts,I'm having intrusive thoughts and it's scary,It's brave of you to acknowledge your thoughts. Consider talking to a therapist.
+concentration,I'm finding it hard to concentrate on anything,Try breaking tasks into smaller steps. Focus on one thing at a time.
+overwhelmed,The world feels heavy on my shoulders,Consider seeking therapy or counseling to explore your feelings further.
+need_support,I need someone to talk to about my mental health,Talking to someone you trust can be a good first step.
+feeling_lost,I'm feeling lost and don't know where to turn,You're not alone in feeling lost. Reach out for support.
+future_anxiety,The thought of the future is causing me anxiety,"Focus on the present moment. The future can be uncertain, but you're not alone."
+escapism,I wish I could escape from my own mind,Consider journaling your thoughts as a way to express and process your feelings.
+lack_of_joy,It's hard to find joy in anything lately,"Find activities that bring you joy, even if they're small."
+drowning_in_thoughts,I feel like I'm drowning in my own thoughts,Consider reaching out to a mental health professional for support.
+seeking_support,I need support for my mental health,It's okay to ask for help. You don't have to go through this alone.
