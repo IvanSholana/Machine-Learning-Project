@@ -1,0 +1,6 @@
+path: "X:/Kuliah/Mata Kuliah/Semester 5/Visi Komputer/image segmentation/data"
+train: "images/train"
+val: "images/val"
+
+nc: 2
+names: ["cat", "dog"]
